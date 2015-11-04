@@ -1,0 +1,2 @@
+# depot
+iniciando ruby-rails
